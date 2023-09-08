@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+}
+
+.side-nav {
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+}
+.container {
+  background-color: beige;
+  width: 100px;
+  height: 100px;
+}
