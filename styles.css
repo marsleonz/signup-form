@@ -37,11 +37,16 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: black;
+  background: rgb(152, 152, 152);
+  background: radial-gradient(
+    circle,
+    rgba(152, 152, 152, 1) 0%,
+    rgba(249, 249, 249, 1) 100%
+  );
 }
 main {
   display: flex;
-  width: 80%;
+  width: 60%;
 }
 ul {
   display: flex;
